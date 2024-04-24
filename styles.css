@@ -54,13 +54,14 @@ h3 {
 }
 
 nav ul, article > h1, article > h2 {
+    font-weight: 100;
     list-style-type: none;
     text-align: center;
     margin-bottom: 1%;
 }
 nav a, footer p:hover, i {
     text-decoration: none;
-    color: #FF9F45;
+    color: #000000;
 }
 
 nav, main, footer {
